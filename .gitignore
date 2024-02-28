@@ -1,6 +1,5 @@
 .git/
 .vs/
-Debug/
 Release/
 packages/
 GraphicSDK/
@@ -10,3 +9,4 @@ GraphicSDK/
 *.vcxproj.filters
 *.user
 *.vcxproj.user
+001_Reflective shadow map/x64
